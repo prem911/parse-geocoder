@@ -1,5 +1,5 @@
 {
-  "name": "parse-geocoder",
+  "name": "pm-parse-geocoder",
   "version": "0.1.1",
   "description": "Parse data returned by geocoder into easily usable format",
   "main": "index.js",
